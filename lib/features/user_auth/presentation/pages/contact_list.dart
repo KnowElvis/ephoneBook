@@ -95,6 +95,7 @@ class _ContactListState extends State<ContactList> {
                                                         singleUser.id));
                                                         Navigator.pop(context);
                                                       },
+
                                                       child: const Text(
                                                         'Delete',
                                                         style: TextStyle(
