@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569117433379",
+    "project_id": "e-phonebook-7618c",
+    "storage_bucket": "e-phonebook-7618c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569117433379:android:57e40e621d8b9550459b96",
+        "android_client_info": {
+          "package_name": "com.example.ephonebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83QYb-m78utEKH0SoDRKWAK7WiRmgioE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
